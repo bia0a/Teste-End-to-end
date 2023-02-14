@@ -1,0 +1,13 @@
+1. Possibilidade de inserção manual do valor em '#amount" e '#month-amount':
+Além de ter a opção de selecionar o valor do empréstimo e o número de meses usando sliders e as setas, os usuários também poderiam ter a opção de inserir manualmente os valores nesses campos.
+ Isso pode ser especialmente útil para aqueles que têm um valor específico em mente e preferem digitá-lo em vez de usar os sliders.
+
+2. Adicionar um indicador numérico de valor:
+O indicador numérico de valor permitiria que os usuários vissem exatamente o valor que selecionaram para ajustes com mais precisão.
+
+3. Incluir opção de comparação de empréstimos:
+Seria útil também oferecer uma ferramenta de comparação de empréstimos em que os usuários possam comparar vários empréstimos lado a lado. 
+Isso pode incluir informações sobre os termos de cada empréstimo, também uma tabela comparativa dos valores totais a pagar ao longo do tempo.
+
+4. Incluir um chat de atendimento ao cliente:
+Chat de atendimento ao cliente pode ser útil para os usuários que preferem não telefonar ou enviar um e-mail para obter ajuda, assim poupando tempo do usuário com dúvida.
