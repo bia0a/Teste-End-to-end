@@ -1,17 +1,16 @@
 
 # Teste E2E Serasa
 
-Projeto direcionado ao desadio técnico proposto pelo Serasa
+Este é um projeto que foi desenvolvido como parte do desafio técnico proposto pelo Serasa.
 
 
 ## Clone
 
-Clone este repositório para sua máquina local usando comando abaixo:
+Para clonar o repositório em sua máquina local, execute o seguinte comando:
 
 ```
   $ git clone https://github.com/bia0a/Teste-End-to-end.git
 
-  $ cd /{diretorio}/Teste-End-to-end
 ```
 # Execução na interface
 Acesse a raiz do repositório
@@ -22,7 +21,7 @@ Execute comando para instalar as dependências
 ```
 npm install
  ```
-Execute comando para abrir a UI do cypress
+Execute comando para abrir a interface  do cypress
 ```
 npx cypress open
  ```
