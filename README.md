@@ -4,8 +4,7 @@
 Este é um projeto que foi desenvolvido como parte do desafio técnico proposto pelo Serasa.
 
 # Arquivo de texto
-Dentro do diretório Teste-End-to-end\cypress, há um arquivo de texto chamado melhorias.txt, que contém as sugestões para as páginas.
-
+Dentro do diretório Teste-End-to-end\cypress, há um arquivo de texto chamado melhorias.txt, que contém as sugestões para a página no qual o teste foi realizado.
 ## Clone
 
 Para clonar o repositório em sua máquina local, execute o seguinte comando:
@@ -23,7 +22,7 @@ Execute comando para instalar as dependências
 ```
 npm install
  ```
-Execute comando para abrir a interface  do cypress
+Execute comando para abrir a interface do cypress
 ```
 npx cypress open
  ```
