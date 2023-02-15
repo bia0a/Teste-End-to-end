@@ -3,6 +3,8 @@
 
 Este é um projeto que foi desenvolvido como parte do desafio técnico proposto pelo Serasa.
 
+# Arquivo de texto
+Dentro do diretório Teste-End-to-end\cypress, há um arquivo de texto chamado melhorias.txt, que contém as sugestões para as páginas.
 
 ## Clone
 
